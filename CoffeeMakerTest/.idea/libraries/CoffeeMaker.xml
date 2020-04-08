@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CoffeeMaker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/CoffeeMaker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
