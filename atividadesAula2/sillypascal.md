@@ -1,5 +1,12 @@
 # SIN5022_testes_software
-Repository for SIN5022 exercises.
+
+
+## Repository for SIN5022 exercises.
+
+### Silly Pascal  Exercise
+
+
+
 
 ### Análise de Classes de Equivalência
 | Entrada         | Classes Válidas     | Classes Inválidas      |
@@ -37,3 +44,6 @@ Repository for SIN5022 exercises.
 |12  |zcv      |valido              |V4.4          |
 |13  |0abc     |invalido            |V4.1          |
 |14  |9abc     |invalido            |V4.2          |
+
+* Caso de teste ID 8 de valor limite igual Caso de teste ID2 em classes de equivalência;
+* Caso de teste ID 9 de valor limite igual Caso de teste ID3 em classes de equivalência;
