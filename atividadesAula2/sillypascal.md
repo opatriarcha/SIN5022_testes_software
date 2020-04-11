@@ -32,4 +32,8 @@ Repository for SIN5022 exercises.
 |7   |abcdef   |valido              |V1.2          |
 |8   |""       |invalido            |V3.1          |
 |9   |abcdefgh |invalido            |V3.2          |
-|10  |Abc      |valido              |V4.1          |
+|10  |Abc      |valido              |V4.1, V2.1    |
+|11  |Zcv      |valido              |V4.3          |
+|12  |zcv      |valido              |V4.4          |
+|13  |0abc     |invalido            |V4.1          |
+|14  |9abc     |invalido            |V4.2          |
