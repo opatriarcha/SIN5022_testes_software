@@ -1,4 +1,4 @@
-package romanos;
+package br.com.each.ppgsi.testesDeSoftware.romanos;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -33,5 +33,8 @@ public class NumerosRomanos {
         }
 
         return convertedNumber;
+    }
+    public static void main(String[] args) {
+        NumerosRomanos.convert("Z");
     }
 }

@@ -421,5 +421,4 @@ public class TrianguloTest {
         String result = Triangulo.classificaTriangulo(LA, LB, LC);
         assertEquals(MSG_NAO_FORMA_TRIANGULO,result);
     }
-
 }
